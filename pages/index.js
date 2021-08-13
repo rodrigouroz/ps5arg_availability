@@ -23,8 +23,8 @@ export default function Home({ stores }) {
         <h1 className={styles.title}>
           ¿Dónde hay una PS5?
         </h1>
-        <p className={styles.description}>Si no se puede determinar que esta "No disponible", se pone el estado "Verificar" para que
-          el usuario vaya directamente al sitio y se fije. Esto es porque el chequeo de "No disponible" se hace en base a como se ven los sitios
+        <p className={styles.description}>Si no se puede determinar que esta &quot;No disponible&quot;, se pone el estado &quot;Verificar&quot; para que
+          el usuario vaya directamente al sitio y se fije. Esto es porque el chequeo de &quot;No disponible&quot; se hace en base a como se ven los sitios
           ahora. Puede ser que cambien sin que eso signifique que haya disponibilidad.</p>
 
         <div className={styles.grid}>
