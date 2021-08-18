@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "chromedriver": "^92.0.1",
+    "chromium": "^3.0.2",
     "jsdom": "^16.7.0",
     "next": "11.1.0",
     "node-fetch": "https://github.com/tekwiz/node-fetch.git#fix/redirect-with-empty-chunked-transfer-encoding",
