@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "chromedriver": "^92.0.1",
     "jsdom": "^16.7.0",
     "next": "11.1.0",
     "node-fetch": "https://github.com/tekwiz/node-fetch.git#fix/redirect-with-empty-chunked-transfer-encoding",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "selenium-webdriver": "^4.0.0-beta.4"
   },
   "devDependencies": {
     "eslint": "7.32.0",
